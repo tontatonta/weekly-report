@@ -24,7 +24,7 @@
 -Frontend project 4
 
 -Advanced CS  
-# Milestone 2
+### Milestone 2
 
 -OOP
 
